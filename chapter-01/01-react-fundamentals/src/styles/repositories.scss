@@ -1,13 +1,31 @@
 section.repository-list {
     margin: 40px;
-
+    
     h1 {
-        margin-bottom: 16px;
+        color: #FFF;
+        background-color: #8257e6;
+        text-align: center;
+        border:4px solid #04d361;
+        border-radius: 25px;
+
+        width: 20%;
+        padding: 10px;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     ul {
+        margin: auto;
         list-style: none;
-        
+        background-color: #8257e6;
+        width: 60%;
+        padding: 15px;
+
+        strong {
+            color: #04d361;
+        }
+
         li {
             & + li {
                 margin-top: 20px;
@@ -15,16 +33,22 @@ section.repository-list {
 
             p {
                 font-size: 14px;
-                color: #444;
+                color: #FFF;
                 margin-top: 8px;
-
             }
 
             a {
+                color: #04d361;
+                border:3px solid #04d361;
+                background-color: #FFF;
+                
                 display: inline-block;
+                text-align: center;
+                width: 19%;
                 margin-top: 16px;
                 text-decoration: none;
-                color: #8257e6;
+                font-weight: bold;
+                
             }
         }
     }

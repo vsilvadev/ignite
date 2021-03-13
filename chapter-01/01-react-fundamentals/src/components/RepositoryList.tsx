@@ -19,7 +19,8 @@ export function RepositoryList() {
     }, [])
 
     return (
-        <section className="repository-list">
+        <div className="container">
+            <section className="repository-list">
             <h1>Lista de Repositórios</h1>
 
             <ul>
@@ -28,5 +29,7 @@ export function RepositoryList() {
                 })}
             </ul>
         </section>
+        </div>
+        
     );
 }
