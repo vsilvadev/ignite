@@ -18,6 +18,9 @@
  <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/challenges/challenge01">Challenge 01: React concepts</a><b> <br>
  <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/challenges/challenge02">Challenge 02: Creating a shopping cart hook</a><b> <br>
   
+ <h2>➕ Extra Challenges</h2>
+ <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/challenges/extraChallenges/extraChallenge01">Challenge 01: Componentizing the application</a><b> <br>
+  
 <h2>⭐ Author<a name="author"></a></h2>
 
 <h3>Vitor Silva</h3> 
