@@ -9,10 +9,14 @@
 
 <h2>⚛️ Chapters</h2>
  <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/chapter-01">Chapter I</a><b> <br>
+ <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/chapter-02">Chapter II</a><b> <br>
+ <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/chapter-03">Chapter III</a><b> <br>
+
 
 <h2>📋 Challenges</h2>
  <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/challenges/challenge00">Challenge 00: Organizing studies</a><b> <br>
  <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/challenges/challenge01">Challenge 01: React concepts</a><b> <br>
+ <b>• <a href="https://github.com/vsilvadev/ignite/tree/main/challenges/challenge02">Challenge 02: Creating a shopping cart hook</a><b> <br>
   
 <h2>⭐ Author<a name="author"></a></h2>
 
